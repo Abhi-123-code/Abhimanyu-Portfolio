@@ -12,7 +12,7 @@ Check out the live version of my portfolio [here](https://abhi-123-code.github.i
 - [Projects](#-projects)
 - [Skills](#-skills)
 - [Contact](#-contact)
-- [License](#-license)
+
 
 ## 👨‍💻 About Me
 
