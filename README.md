@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This repository contains the code for 
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio [here](https://your-live-portfolio-link.com) 🌐
+Check out the live version of my portfolio [here](https://abhi-123-code.github.io/Abhimanyu-Portfolio/) 🌐
 
 ## 📋 Table of Contents
 
@@ -12,7 +12,7 @@ Check out the live version of my portfolio [here](https://your-live-portfolio-li
 - [Projects](#-projects)
 - [Skills](#-skills)
 - [Contact](#-contact)
-- [License](#-license)
+
 
 ## 👨‍💻 About Me
 
