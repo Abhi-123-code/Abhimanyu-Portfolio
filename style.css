@@ -554,19 +554,24 @@ header {
   .AllProjectsfirstone{
     margin-top: -150px;
   }
-  .AllProjects-LeftSide {
+  /* .AllProjects-LeftSide {
     display: flex;
     justify-content: center;  
     align-items: center;      
-     
-  }
-
-  .AllProjects-LeftSide img {
-    object-fit: cover;  
-    height: 100%;
-    width: 100%;
-    transform: translateX(-35.935px);
-  }
+    margin-left: 5rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    display: block;
+    object-fit: cover;
+  } */
+.special_image{
+  
+  position: relative;
+  margin-right: 3rem;
+  margin-top: 7rem;
+  
+}
+  
   .AllProjects-RightSide {
     display: flex;
     justify-content: center; 
